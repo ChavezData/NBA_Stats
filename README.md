@@ -1,5 +1,3 @@
-Here’s a README template for your NBA_Stats project. You should customize it further to reflect exactly what your notebook does, the data sources, and any scripts or modules you have.
-
 # NBA Stats (2023)
 
 A data analysis and modeling project exploring NBA statistics, implemented in a Jupyter Notebook.
@@ -178,7 +176,3 @@ Please adhere to code style (PEP 8), comment your code, and run notebooks end-to
 License
 
 Specify your license of choice (e.g. MIT License). Include a LICENSE file at the root of the repo.
-
-⸻
-
-If you like, I can read the notebook contents and auto-generate a README.md that includes sample metrics, graphs, and module names specific to your code. Would you like me to do that?
